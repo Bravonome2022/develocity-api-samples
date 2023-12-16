@@ -1,3 +1,4 @@
+
 # Develocity API Samples
 
 This repository demonstrates using the Develocity API and generating client code from its OpenAPI specification.
